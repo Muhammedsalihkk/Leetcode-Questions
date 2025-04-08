@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -47,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
