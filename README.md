@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
 ## String Matching
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
