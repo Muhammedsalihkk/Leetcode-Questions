@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0164-maximum-gap) |
 | [0283-move-zeroes](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0283-move-zeroes) |
+| [1848-sum-of-unique-elements](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1848-sum-of-unique-elements) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3778-transform-array-by-parity](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
@@ -85,11 +86,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1848-sum-of-unique-elements](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1848-sum-of-unique-elements) |
 | [3778-transform-array-by-parity](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3778-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [1848-sum-of-unique-elements](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1848-sum-of-unique-elements) |
 ## Prefix Sum
 |  |
 | ------- |
