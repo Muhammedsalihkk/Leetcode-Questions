@@ -4,21 +4,21 @@
  * @return {number}
  */
 var differenceOfSums = function(n, m) {
-    let nums1=[]
-    let nums2=[]
+    let nums1=0
+    let nums2=0
     for(i=1;i<=n;i++)
     {
        if(i%m!=0)
        {
-        nums1.push(i)
+        nums1+=i
        }
        else{
-        nums2.push(i)
+        nums2+=i
        }
     }
-    sum1=nums1.reduce((acc,number)=>acc+number,0)
-    sum2=nums2.reduce((acc,number)=>acc+number,0)
+    result=nums1-nums2
     nums1=null
     nums2=null
-    return sum1-sum2
+   
+    return result
 };
