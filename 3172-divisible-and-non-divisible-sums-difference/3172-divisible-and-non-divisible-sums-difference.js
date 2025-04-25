@@ -18,7 +18,7 @@ var differenceOfSums = function(n, m) {
     }
     sum1=nums1.reduce((acc,number)=>acc+number,0)
     sum2=nums2.reduce((acc,number)=>acc+number,0)
-    console.log(nums1)
-    console.log(nums2)
+    nums1=null
+    nums2=null
     return sum1-sum2
 };
