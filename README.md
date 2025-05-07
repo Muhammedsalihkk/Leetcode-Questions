@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0326-power-of-three) |
 ## Counting
 |  |
 | ------- |
