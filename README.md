@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0162-find-peak-element) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0782-jewels-and-stones) |
