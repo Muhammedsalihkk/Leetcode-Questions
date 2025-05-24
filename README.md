@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0162-find-peak-element) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0268-missing-number) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
