@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
 ## Recursion
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
