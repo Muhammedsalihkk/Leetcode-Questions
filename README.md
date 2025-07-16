@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [1894-merge-strings-alternately](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0551-student-attendance-record-i) |
 | [0782-jewels-and-stones](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0782-jewels-and-stones) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1894-merge-strings-alternately](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1894-merge-strings-alternately) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3194-find-words-containing-character) |
