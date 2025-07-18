@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1137-height-checker) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1791-richest-customer-wealth) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1137-height-checker) |
 | [3778-transform-array-by-parity](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3778-transform-array-by-parity) |
 ## Bucket Sort
 |  |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0258-add-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
