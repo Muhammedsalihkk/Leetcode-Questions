@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1086-divisor-game](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1086-divisor-game) |
 ## Greedy
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
+| [1086-divisor-game](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2083-three-divisors](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2083-three-divisors) |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2083-three-divisors) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
