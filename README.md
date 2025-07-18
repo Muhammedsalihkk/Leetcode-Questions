@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2083-three-divisors](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2083-three-divisors) |
 | [2383-add-two-integers](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -187,8 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2083-three-divisors) |
 ## Counting Sort
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1137-height-checker) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
