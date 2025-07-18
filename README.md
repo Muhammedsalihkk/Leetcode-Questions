@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
