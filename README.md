@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1137-height-checker) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1635-number-of-good-pairs](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1848-sum-of-unique-elements) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1635-number-of-good-pairs](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1635-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2083-three-divisors](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+| [1635-number-of-good-pairs](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0782-jewels-and-stones) |
+| [1635-number-of-good-pairs](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1848-sum-of-unique-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Prefix Sum
