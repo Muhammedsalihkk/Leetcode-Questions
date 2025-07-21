@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [1086-divisor-game](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1086-divisor-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
