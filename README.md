@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2083-three-divisors](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
+| [1806-count-of-matches-in-tournament](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1806-count-of-matches-in-tournament) |
 ## Recursion
 |  |
 | ------- |
