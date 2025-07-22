@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0742-to-lower-case](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0742-to-lower-case) |
