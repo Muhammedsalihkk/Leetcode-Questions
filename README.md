@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2383-add-two-integers](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2491-smallest-even-multiple) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -234,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1086-divisor-game) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
