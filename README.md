@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0979-di-string-match](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1137-height-checker) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0979-di-string-match](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0979-di-string-match](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0979-di-string-match) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0782-jewels-and-stones) |
+| [0979-di-string-match](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0979-di-string-match) |
 | [1205-defanging-an-ip-address](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1894-merge-strings-alternately) |
