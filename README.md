@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2128-reverse-prefix-of-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1205-defanging-an-ip-address) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3194-find-words-containing-character](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3194-find-words-containing-character) |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+## Stack
+|  |
+| ------- |
+| [2128-reverse-prefix-of-word](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
