@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0682-baseball-game](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0941-sort-array-by-parity](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0941-sort-array-by-parity) |
 | [0979-di-string-match](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0979-di-string-match) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [1806-count-of-matches-in-tournament](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1806-count-of-matches-in-tournament) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2288-count-operations-to-obtain-zero) |
 ## Recursion
@@ -264,5 +266,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0682-baseball-game) |
 | [2128-reverse-prefix-of-word](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
