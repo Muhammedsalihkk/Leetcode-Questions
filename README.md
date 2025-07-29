@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0541-reverse-string-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0441-arranging-coins) |
 | [1086-divisor-game](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1086-divisor-game) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/0682-baseball-game) |
