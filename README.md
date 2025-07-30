@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1580-shuffle-the-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1791-richest-customer-wealth) |
