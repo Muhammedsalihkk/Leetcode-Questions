@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2235-capitalize-the-title](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2235-capitalize-the-title) |
 | [3194-find-words-containing-character](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3567-convert-date-to-binary) |
 ## String Matching
