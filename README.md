@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1944-truncate-sentence) |
 | [1954-replace-all-digits-with-characters](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1954-replace-all-digits-with-characters) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1848-sum-of-unique-elements) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Prefix Sum
