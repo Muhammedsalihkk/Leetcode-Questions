@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2727-number-of-senior-citizens](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3194-find-words-containing-character) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2235-capitalize-the-title](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2235-capitalize-the-title) |
+| [2727-number-of-senior-citizens](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3194-find-words-containing-character) |
 | [3567-convert-date-to-binary](https://github.com/Muhammedsalihkk/Leetcode-Questions/tree/master/3567-convert-date-to-binary) |
 ## String Matching
